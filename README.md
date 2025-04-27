@@ -1,4 +1,4 @@
-# cfreeze.github.io
+# Data Analytics Portfolio
 
 Personal portfolio containing data science projects.
 
