@@ -1,7 +1,7 @@
 # cfreeze.github.io
 
 # [Project 1: Kaggle Home Credit Default Risk](https://github.com/medeeze/Kaggle_Home_Project)
-##  
+
 Home Credit would like to provide customers with the ability to request loans despite 
 having a lack of credit history. Without credit history, it is difficult to predict the likeliness 
 of a given customer to pay off their debt which is a risk lenders usually avoid.
